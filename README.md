@@ -25,6 +25,11 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/arunjangir
 - **Rating**: Customer satisfaction rating.
 
 ---
+## 📈 Interactive Dashboard  
+Explore the insights through my interactive Tableau Public dashboard. Click the image below to view it:  
+
+[![Tableau Dashboard](./dashboard.png)](https://public.tableau.com/views/Supermarket_Dashboard_17378221482660/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+---
 
 ## 🔍 Data Analysis Workflow
 1. **Data Gathering**  
