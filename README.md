@@ -56,15 +56,20 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/arunjangir
   - Female customers prefer Sports and Travel.
   - Male customers favor Health and Beauty.
 - **Branch-Specific Gender Trends**:
-  - Branch A and B attract more male customers.
-  - Branch C attracts more female customers.
+  - Branch A and B sold more products to male customers.
+  - Branch C sold more products to female customers.
 
 ### 3. Product Line Analysis
 - **Top-Selling Products**:
   - Members: Food and Beverages.
   - Regular Customers: Electronic Accessories.
 - **Monthly Sales Highlights**:
-  - Peak sales for Health and Beauty in March, Electronic Accessories in January, and other categories vary across months.
+  - Health and Beauty: March (334 items).
+  - Electronic Accessories: January (333 items).
+  - Home and Lifestyle: March (364 items).
+  - Sports and Travel: January (375 items).
+  - Food and Beverages: February (349 items).
+  - Fashion Accessories: January (336 items).
 
 ### 4. Busiest Times and Seasonal Trends
 - **Peak Times**:
@@ -93,13 +98,13 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/arunjangir
 - **Targeted Promotions**: Use insights to design campaigns:
   - Discounts on Food and Beverages for members.
   - Deals on Electronic Accessories for regular customers.
-- **Seasonal Campaigns**: Promote products based on peak months.
+- **Seasonal Campaigns**: Promote products based on peak months (e.g., promote Health and Beauty in March, Electronic Accessories in January)..
 
 ### 3. Customer Engagement
 - **Gender-Specific Campaigns**:
   - Female-focused promotions: Sports and Travel.
   - Male-focused promotions: Health and Beauty.
-- **Branch-Specific Strategies**: Tailor campaigns to customer demographics for each branch.
+- **Branch-Specific Strategies**: Tailor campaigns to customer demographics for each branch (e.g., Branch C campaigns targeting female customers).
 
 ### 4. Payment Systems
 - Encourage credit card usage among regular customers with loyalty rewards or discounts.
