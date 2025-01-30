@@ -2,6 +2,7 @@
 
 Welcome to my **Supermarket Sales Data Analysis Portfolio**! This project explores a supermarket's sales dataset, providing actionable insights to help improve business strategies and enhance customer experiences.
 
+For a detailed analysis, process, and insight, you can view the notebook here: [Supermarket Sales Analysis📄](https://github.com/ngrlearningjourney/supermarket-customer-purchase-behavior-analysis/blob/main/supermarket_analysis.ipynb)
 ---
 
 ## 📂 Dataset Overview
